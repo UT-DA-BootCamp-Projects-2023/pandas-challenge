@@ -14,7 +14,7 @@
 The same steps to be followed when trying to execute "PyCitySchools_starter_Completed.ipynb (Jupyter Source File)". 
 
 PLEASE NOTE: Written report which summarizes the below is present at the top of the Jupyter Source File
-    *  Analysis Summary
-    *  Conclusion
-    *  Limitations
+*  Analysis Summary
+*  Conclusion
+*  Limitations
 
